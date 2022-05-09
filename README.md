@@ -13,6 +13,6 @@ http://www.laravel-prueba.com.mx:8084/api/ `cuando se crea en un servidor virtua
 	ErrorLog "logs/laravel-prueba-error.log"
 	CustomLog "logs/laravel-prueba-access.log" common
 </VirtualHost>
-*`Host virtual como debe quedar apuntando a la carpeta public`
+4. `Ejemplo de host virtual como debe quedar apuntando a la carpeta public`
 
-4. Correr la aplicación con `npm run serve`.
+5. Correr la aplicación con `npm run serve`.
