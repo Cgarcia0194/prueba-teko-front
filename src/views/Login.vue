@@ -53,10 +53,6 @@
                 </v-col>
               </v-row>
 
-              <p class="mt-15 d-block text-center w-100">
-                Blvd. Universidad Tecnológica #225 Col. San Carlos CP. 37670
-                León, Gto. Mex. l Tel (477) 7 10 00 20
-              </p>
             </v-form>
           </v-card-text>
         </v-card>
