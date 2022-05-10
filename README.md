@@ -7,15 +7,3 @@
 http://127.0.0.1:8000/api/ (cuando es artisan) o
 http://www.laravel-prueba.com.mx:8084/api/ (cuando se crea en un servidor virtual), en ambos casos se debe apuntar hacia `/api/`
 4. Correr la aplicación con `npm run serve`.
-
-5. `Ejemplo de host virtual como debe quedar apuntando a la carpeta public`:
-
-<VirtualHost *:8084 >
-	DocumentRoot "C:/AppServ/www/prueba-teko/prueba-teko-backend-main/public/"
-	ServerName www.laravel-prueba.com.mx
-	ErrorLog "logs/laravel-prueba-error.log"
-	CustomLog "logs/laravel-prueba-access.log" common
-</VirtualHost>
-
-
-
