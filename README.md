@@ -1,4 +1,4 @@
-# Prueba
+# Prueba Front-End
 
 ### How to Run:
 1. Descargar proyecto
