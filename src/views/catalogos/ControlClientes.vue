@@ -561,6 +561,7 @@ export default {
       }
     },
     loadInformationInFields(item) {
+      this.getServices();
       this.isBtnCreateShown = false;
       this.isBtnUpdateShown = true;
 
