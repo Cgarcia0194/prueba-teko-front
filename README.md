@@ -9,6 +9,7 @@ http://www.laravel-prueba.com.mx:8084/api/ (cuando se crea en un servidor virtua
 4. Correr la aplicación con `npm run serve`.
 
 5. `Ejemplo de host virtual como debe quedar apuntando a la carpeta public`:
+
 <VirtualHost *:8084 >
 	DocumentRoot "C:/AppServ/www/prueba-teko/prueba-teko-backend-main/public/"
 	ServerName www.laravel-prueba.com.mx
