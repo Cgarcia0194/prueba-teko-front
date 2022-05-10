@@ -140,7 +140,7 @@ export default {
           case "success":
             this.chartPaymentHistory.series[0].data = [
               {
-                name: "Pendientes",
+                name: "Pendientes por pagar",
                 y: data.data[0].pendientes,
               },
               {
